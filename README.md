@@ -63,7 +63,7 @@ pip install pandas numpy matplotlib seaborn
 ## Results & Analysis
 - The script compares the convergence and performance of Batch GD, SGD, and Mini-Batch SGD.
 - Visualizations show the loss history and feature importances for each method.
-- See the end of `i210442_a1.py` for detailed discussion and plots.
+- See the end of `notebook.ipynb` for detailed discussion and plots.
 
 ## References
 - [Gradient Descent from Scratch: Batch, Stochastic, and Mini-Batch](https://medium.com/@jaleeladejumo/gradient-descent-from-scratch-batch-gradient-descent-stochastic-gradient-descent-and-mini-batch-def681187473)
