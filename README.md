@@ -43,7 +43,7 @@ pip install pandas numpy matplotlib seaborn
 1. **Place your dataset:** Ensure `dataset.csv` is in the project root.
 2. **Open the notebook:**
    ```bash
-   jupyter notebook Linear_Regression_Models.ipynb
+   jupyter notebook notebook.ipynb
    ```
    or use JupyterLab or VSCode's notebook interface.
 3. **Outputs:**
