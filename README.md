@@ -54,7 +54,7 @@ pip install pandas numpy matplotlib seaborn
 ## Project Structure
 ```
 ├── notebook.ipynb       # Main script with all code and analysis
-├── dataset.csv           # Input dataset (not included)
+├── dataset.csv           # Input dataset
 ├── cleaned_dataset.csv   # Output after preprocessing
 ├── README.md             # Project documentation
 ├── LICENSE               # License file
